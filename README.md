@@ -9,11 +9,11 @@
 </h1>
 
 
-<h2>Backend / Full-Stack Engineer</h2>
+<h2>Software Engineer</h2>
 
 - Software Engineer sharing my journey and learnings in tech
-- Studied Systems Engineering at Universidad Tecnológica Nacional [(UTN)](https://www.frc.utn.edu.ar), Argentina
-- I make videos about university programming subjects, tech, and productivity on [YouTube](https://www.youtube.com/@lucas_backend13?sub_confirmation=1)
+- Studied **Systems Engineering** at Universidad Tecnológica Nacional (**[UTN](https://www.frc.utn.edu.ar)**), Argentina
+- I make videos about university programming subjects, tech, and productivity on **[YouTube](https://www.youtube.com/@lucas_backend13?sub_confirmation=1)**
 
 <a href="https://lucascallamullo.github.io" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio" /></a>&nbsp;&nbsp;<a href="https://linkedin.com/in/lucas-callamullo" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;&nbsp;<a href="mailto:lucas.callamullo.dev@gmail.com"><img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 
@@ -22,7 +22,7 @@
 
 <table align="center" width="100%">
   <tr>
-    <td valign="top" width="48%" align="left">
+    <td valign="top" width="50%" align="left">
       <br>
       <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" height="30" />&nbsp;
       <img src="https://img.shields.io/badge/Spring_Boot-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Boot" height="30" />&nbsp;
@@ -40,7 +40,7 @@
       <img src="https://img.shields.io/badge/Nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx" height="30" />&nbsp;
       <img src="https://img.shields.io/badge/Docker_Compose-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker Compose" height="30" />&nbsp;
     </td>
-    <td valign="top" width="48%" align="left">
+    <td valign="top" width="50%" align="left">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasCallamullo&langs_count=6&show_icons=true&layout=donut&theme=tokyonight&hide_border=true&bg_color=0D1117&exclude_repo=pawn-project-mod-cs-game,Tutoring-Algorithms-Data-Structures,java-backend-3k2,desarrollo-software-3k1,python-mobile-kivy,django-practice,python-project-analysis,java-microservices-backend" alt="Top Languages" width="100%" height="250">
     </td>
   </tr>
@@ -55,4 +55,3 @@
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://github-readme-streak-stats.herokuapp.com?user=LucasCallamullo&theme=tokyonight&background=0D1117&card_height=208&hide_border=true" alt="LucasCallamullo" width="48%">
 </div>
-
