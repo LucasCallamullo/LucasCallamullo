@@ -19,11 +19,9 @@
 
 
 <h2 align="left">Tech Stack</h2>
-
 <table align="center" width="100%">
-  <tr>
+  <tr width="100%">
     <td valign="top" width="50%" align="left">
-      <br>
       <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" height="30" />&nbsp;
       <img src="https://img.shields.io/badge/Spring_Boot-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Boot" height="30" />&nbsp;
       <img src="https://img.shields.io/badge/C%23-%235C2D91.svg?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" height="30" />&nbsp;
@@ -41,7 +39,7 @@
       <img src="https://img.shields.io/badge/Docker_Compose-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker Compose" height="30" />&nbsp;
     </td>
     <td valign="top" width="50%" align="left">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasCallamullo&langs_count=6&show_icons=true&layout=donut&theme=tokyonight&hide_border=true&bg_color=0D1117&exclude_repo=pawn-project-mod-cs-game,Tutoring-Algorithms-Data-Structures,java-backend-3k2,desarrollo-software-3k1,python-mobile-kivy,django-practice,python-project-analysis,java-microservices-backend" alt="Top Languages" width="100%" height="250">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasCallamullo&langs_count=6&show_icons=true&layout=donut&theme=tokyonight&hide_border=true&bg_color=0D1117&exclude_repo=pawn-project-mod-cs-game,Tutoring-Algorithms-Data-Structures,java-backend-3k2,desarrollo-software-3k1,python-mobile-kivy,django-practice,python-project-analysis,java-microservices-backend" alt="Top Languages" width="100%" height="267">
     </td>
   </tr>
 </table>
