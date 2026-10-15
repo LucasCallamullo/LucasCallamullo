@@ -21,25 +21,25 @@
 <h2 align="left">Tech Stack</h2>
 <table align="center" width="100%">
   <tr width="100%">
-    <td valign="top" width="50%" align="left">
+    <td width="51%" align="left">
       <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" height="30" />&nbsp;
       <img src="https://img.shields.io/badge/Spring_Boot-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Boot" height="30" />&nbsp;
       <img src="https://img.shields.io/badge/C%23-%235C2D91.svg?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" height="30" />&nbsp;
-      <img src="https://img.shields.io/badge/.NET-%235C2D91.svg?style=for-the-badge&logo=.net&logoColor=white" alt=".NET" height="30" />&nbsp;
+      <img src="https://img.shields.io/badge/.NET-%235C2D91.svg?style=for-the-badge&logo=.net&logoColor=white" alt=".NET" height="30" />
       <br><br>
       <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" height="30" />&nbsp;
       <img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" height="30" />&nbsp;
-      <img src="https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" height="30" />&nbsp;
+      <img src="https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" height="30" />
       <br><br>
       <img src="https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" height="30" />&nbsp;
-      <img src="https://img.shields.io/badge/Redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" height="30" />&nbsp;
+      <img src="https://img.shields.io/badge/Redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" height="30" />
       <br><br>
       <img src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" height="30" />&nbsp;
       <img src="https://img.shields.io/badge/Nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx" height="30" />&nbsp;
-      <img src="https://img.shields.io/badge/Docker_Compose-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker Compose" height="30" />&nbsp;
+      <img src="https://img.shields.io/badge/Docker_Compose-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker Compose" height="30" />
     </td>
-    <td valign="top" width="50%" align="left">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasCallamullo&langs_count=6&show_icons=true&layout=donut&theme=tokyonight&hide_border=true&bg_color=0D1117&exclude_repo=pawn-project-mod-cs-game,Tutoring-Algorithms-Data-Structures,java-backend-3k2,desarrollo-software-3k1,python-mobile-kivy,django-practice,python-project-analysis,java-microservices-backend" alt="Top Languages" width="100%" height="267">
+    <td width="49%" align="left">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasCallamullo&hide=JavaScript&langs_count=4&show_icons=true&layout=donut&theme=tokyonight&hide_border=true&bg_color=0D1117&exclude_repo=pawn-project-mod-cs-game,Tutoring-Algorithms-Data-Structures,java-backend-3k2,desarrollo-software-3k1,python-mobile-kivy,django-practice,python-project-analysis,java-microservices-backend" alt="Top Languages" width="100%" height="267">
     </td>
   </tr>
 </table>
